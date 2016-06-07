@@ -5,7 +5,6 @@ __pycache__/
 
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 env/
@@ -60,3 +59,5 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+html_pages/*
