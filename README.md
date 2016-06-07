@@ -1,5 +1,7 @@
 # quick-abcd-scrape
-Scrape past events HTML from the ABCD page
+
+Scrape past events HTML from the Harvard W3 Group page: http://w3.abcd.harvard.edu/
+This is in anticipation of moving the website to a different CMS.
 
 # Install
 
